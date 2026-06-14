@@ -1,0 +1,6 @@
+{
+  "name": "Activity & Participant Tracker",
+  "description": "A clean and simple dashboard for managing, tracking, and registering activity and participant entries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
